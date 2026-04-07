@@ -41,12 +41,12 @@ Amazon CloudWatch is AWS monitoring and observability service for logs, metrics,
 
 ### IAM Role
 
-![IAM Role](./Screenshot-of-IAM-Roles.png)
+![IAM Role](Screenshot-of-IAM-Roles.png)
 
 ### S3 Buckets
 
-![S3 Buckets](./Screenshot-of-File-Upload.png)
+![S3 Buckets](Screenshot-of-File-Upload.png)
 
 ### CloudWatch
 
-![CloudWatch](./Screenshot-of-CloudWatch.png)
+![CloudWatch](Screenshot-of-CloudWatch.png)
